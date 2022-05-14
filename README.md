@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @salcic a software developer from germany.
+- 👀 I’m interested in "doing things the right way".
+- 🌱 I’m currently learning DevOps strategies.
+- 💞️ I’m looking to collaborate on "making the world better" ideas.
+- 📫 Write me sadet@alcic.de
